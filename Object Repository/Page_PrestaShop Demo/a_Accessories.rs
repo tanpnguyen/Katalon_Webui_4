@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Accessories</name>
+   <tag></tag>
+   <elementGuidId>8c98a787-b900-4cff-b097-1ea5000e2955</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;category-6&quot;)/a[@class=&quot;dropdown-item&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;category-6&quot;)/a[@class=&quot;dropdown-item&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
